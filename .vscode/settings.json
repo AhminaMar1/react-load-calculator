@@ -1,0 +1,19 @@
+{
+    "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.alwaysShowStatus": true,
+    "files.autoSave": "onFocusChange",
+    "eslint.format.enable": true,
+    "files.eol": "\n",
+    "tailwindCSS.includeLanguages": {
+        "javascript": "javascript",
+        "html": "HTML"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#072576",
+        "titleBar.activeBackground": "#0A34A5",
+        "titleBar.activeForeground": "#F9FAFF"
+    },
+    "window.title": "React Start Template"
+}
